@@ -1,5 +1,6 @@
 # BCN_3DPose
 Bayesian Capsule Networks for 3D human pose estimation from single 2D images
+https://www.sciencedirect.com/science/article/pii/S092523121931522X
 
 ## Demo
 **_click on the image below for a video demo_**
